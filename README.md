@@ -1,2 +1,4 @@
 # hello-world
-this is not our first repo
+this is our first repo
+
+My name is Rachel
